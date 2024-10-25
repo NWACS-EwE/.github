@@ -1,2 +1,2 @@
-# NWACS-MICE
+# NWACS-EwE
 ## Objective 1: Model Development
